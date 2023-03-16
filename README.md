@@ -8,4 +8,4 @@
 √((x2 - x1) + (y2 - y1))
 
 ```
-![image]('./CAT2_OOP.drawio')
+![image]('./CAT2_OOP.png')
