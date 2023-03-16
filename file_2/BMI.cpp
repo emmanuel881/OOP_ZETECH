@@ -10,9 +10,9 @@ int main()
     double height, weight, BMI;
 
     // initialize weight and height
-    cout<<"Enter height : \n";
+    cout<<"Enter height in meters: \n";
     cin>>height;
-    cout<<"Enter weight : \n";
+    cout<<"Enter weight in kilograms : \n";
     cin>>weight;
 
     //calculate BMI
