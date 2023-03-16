@@ -9,3 +9,15 @@
 
 ```
 ![image](CAT2_OOP.png)
+
+### File 2
+* Body Mass Index (BMI) is a measure of health based on height and weight. It can
+be calculated by taking your weight in kilograms and dividing it by the square of
+your height in meters.
+* The interpretation of BMI for people 20 years or older is as
+follows: BMI Interpretation BMI < 18.5 Underweight 18.5 ≤ BMI < 25.0 Normal
+25.0 ≤ BMI < 30.0 Overweight 30.0 ≤ BMI Obese Write a program that prompts
+the user to enter a weight in pounds and height in inches and displays the BMI.
+* Note that one pound is 0.45359237 kilograms and one inch is0.0254 meters
+
+![image2](CAT2_OOP2.png)
